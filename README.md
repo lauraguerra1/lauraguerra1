@@ -8,8 +8,8 @@
 
 
 <p align="left"> 🌸 I am Laura Garcia Guerra, a <b>Front End Developer</b>, proud Latina, and former mental health professional looking to make a big impact in the tech industry. </p>
+<p align="left"> 🌸 Let's make the world a better place, together, through tech... </p>
 
-*...Let's make the world a better place, together, through tech...*
 
 
 ### 📫 How to reach me:
