@@ -10,7 +10,7 @@
  <p align="center">  I am Laura Garcia Guerra, a <b>Front End Developer</b>, proud Brazilian Latina, and former mental health professional looking to make a big impact in the tech industry. </p>
  <p align="center">  Let's make the world a better place, together, through tech... </p>
 
- <div align="left">
+ <div align="center">
 
 
   ##  Technologies Used: 
