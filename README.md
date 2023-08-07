@@ -7,18 +7,13 @@
    </div>
 
 
- <p align="left"> 🌸 I am Laura Garcia Guerra, a <b>Front End Developer</b>, proud Brazilian Latina, and former mental health professional looking to make a big impact in the tech industry. </p>
- <p align="left"> 🌸 Let's make the world a better place, together, through tech... </p>
+ <p align="center">  I am Laura Garcia Guerra, a <b>Front End Developer</b>, proud Brazilian Latina, and former mental health professional looking to make a big impact in the tech industry. </p>
+ <p align="center">  Let's make the world a better place, together, through tech... </p>
 
  <div align="left">
 
-  ## 📫 How to reach me:
- 
-   [![Linkedin Badge](https://img.shields.io/badge/-LauraGuerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-garcia-guerra-b9b431170/)](https://www.linkedin.com/in/laura-garcia-guerra-b9b431170/)
-   <br>
-   [![Gmail Badge](https://img.shields.io/badge/-l.garciaguerra1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l.garciaguerra1@gmail.com)](mailto:l.garciaguerra1y@gmail.com) <br>
 
-  ## 💻 Technical Skills
+  ##  Technologies Used: 
   
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -36,15 +31,28 @@
 
   <br>
 
-  ## 📈 My Stats  
+  ##  My Stats  
  
+
+<div align='center' >
+  <img height="300px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraguerra1&layout=compact" />
+  <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lauraguerra1&show_icons=true" />
+</div>
+
+
+
+
+## Visit My Portolfio
+ [![Laura's Portfolio](https://github.com/lauraguerra1/lauraguerra1/assets/121131581/5201f3c3-1f83-447e-9b04-84c059e79af0)](https://portfolio-lauraguerra1.vercel.app/)
+
+
  </div>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lauraguerra1)](https://git.io/streak-stats) ![Laura Guerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraguerra1&show_icons=true)
+## Contact Me: 
+ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/laura-garcia-guerra/) or email me at [l.garciaguerra1@gmail.com](mailto:l.garciaguerra1@gmail.com) 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraguerra1&layout=compact" />
 
- ## 🎀 Resume 🎀
+ ##  Resume 
  <details>
    <summary>🎀 Click to View 🎀</summary>
 
