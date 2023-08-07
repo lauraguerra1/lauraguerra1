@@ -42,8 +42,8 @@
 
 
 
-## Visit My Portolfio
- [![Laura's Portfolio](https://github.com/lauraguerra1/lauraguerra1/assets/121131581/5201f3c3-1f83-447e-9b04-84c059e79af0)](https://portfolio-lauraguerra1.vercel.app/)
+## [Visit My Portfolio](https://portfolio-lauraguerra1.vercel.app/)
+ ![Laura's Portfolio](https://github.com/lauraguerra1/lauraguerra1/assets/121131581/5201f3c3-1f83-447e-9b04-84c059e79af0)
 
 
  </div>
