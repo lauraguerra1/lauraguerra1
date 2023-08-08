@@ -1,14 +1,12 @@
-<div align="center">
 
- # ✨ Hi! I'm Laura Guerra ✨
- Front End Software Engineer | Former Mental Health Professional
-   <div align="center"> 
+![Screen Shot 2023-08-08 at 5 11 32 PM](https://github.com/lauraguerra1/lauraguerra1/assets/121131581/ec8b602a-78cc-4ee9-ad6f-41af59a24e0b)
+
+<div align="center">
+ <p align="center">Front End Software Engineer | Former Mental Health Professional</p>
+ <p align="center">  Let's make the world a better place, together, through tech... </p>
+  <div align="center"> 
     <img src="https://media.giphy.com/media/RrVJHB3KSTCznWubpd/giphy.gif" height="200px">
    </div>
-
-
- <p align="center">  I am Laura Garcia Guerra, a <b>Front End Developer</b>, proud Brazilian Latina, and former mental health professional looking to make a big impact in the tech industry. </p>
- <p align="center">  Let's make the world a better place, together, through tech... </p>
 
  <div align="center">
 
