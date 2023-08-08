@@ -5,10 +5,11 @@
  <p align="center">Front End Software Engineer | Former Mental Health Professional</p>
  <p align="center">  Let's make the world a better place, together, through tech... </p>
   <div align="center"> 
-    <img src="https://media.giphy.com/media/RrVJHB3KSTCznWubpd/giphy.gif" height="200px">
+    <img src="https://media.tenor.com/AvHPuvcRU4wAAAAi/cute-penguin.gif" height="200px">
    </div>
 
  <div align="center">
+
 
 
   ##  Technologies Used: 
